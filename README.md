@@ -1,11 +1,9 @@
 <h1>Personal Projects</h1>
-<p>This is a collections of projects and scripts that I have completed or am currently working on!</p>
-<p><b>Currently working on: 
-
+<p>A collection of personal projects and scripts, mostly from earlier coursework and self-study.</p>
 
 <h1>Languages Used</h1>
 <ul>
-  <li>C++</li>  
+  <li>C++</li>
   <li>PHP</li>
   <li>HTML/CSS</li>
   <li>JS</li>
@@ -16,10 +14,8 @@
 
 <h1>Projects</h1>
 <ul>
-  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Lexical%20Analyzer">Simple Arcade</a></li>
-  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/SimpleArcade">Lexical Analyzer</a></li>
-  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Weather%20Report">Weather Report Web Scraper</a></li>
-   <li><a href=#>Object Detection and Facial Recognizerr</a></li>
+  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/SimpleArcade">Simple Arcade</a> — PHP arcade site with login/register (SQL-backed accounts)</li>
+  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Lexical%20Analyzer">Lexical Analyzer</a> — a C++ lexer/parser</li>
+  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Weather%20Report">Weather Report Web Scraper</a> — PHP/Python scraper pulling local weather data into a SQL database</li>
+  <li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Facial%20Recognition">Facial Recognition</a> — Python face detection/encoding with OpenCV</li>
 </ul>
-<h1>Scripts</h1>
-<li><a href="https://github.com/jescamilla1/Personal_Projects/tree/main/Scripts/Simple%20and%20Compound%20Interest%20Calculator">Simple interest and Compound interest Calculator</a></li>
